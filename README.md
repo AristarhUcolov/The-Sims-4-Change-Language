@@ -64,7 +64,9 @@ Currently, this repository includes:
 - English (`en_EN`)
 - Russian (`ru_RU`)
 
-You can create registry files for other languages by following the same pattern and using appropriate locale codes (e.g., `de_DE` for German, `fr_FR` for French, `es_ES` for Spanish, etc.)
+> **Note**: The Sims 4 uses `en_EN` for English, which is non-standard but is what the game requires. Standard locale codes would be `en_US` or `en_GB`, but The Sims 4 specifically uses `en_EN`.
+
+You can create registry files for other languages by following the same pattern and using the locale codes that The Sims 4 expects (e.g., `de_DE` for German, `fr_FR` for French, `es_ES` for Spanish, etc.)
 
 ### ❓ Troubleshooting
 
@@ -149,7 +151,9 @@ Feel free to contribute by adding support for more languages! Simply create a ne
 - Английский (`en_EN`)
 - Русский (`ru_RU`)
 
-Вы можете создать файлы реестра для других языков, следуя той же схеме и используя соответствующие коды локали (например, `de_DE` для немецкого, `fr_FR` для французского, `es_ES` для испанского и т.д.)
+> **Примечание**: The Sims 4 использует `en_EN` для английского языка, что не является стандартным, но это то, что требует игра. Стандартные коды локали были бы `en_US` или `en_GB`, но The Sims 4 конкретно использует `en_EN`.
+
+Вы можете создать файлы реестра для других языков, следуя той же схеме и используя коды локали, которые ожидает The Sims 4 (например, `de_DE` для немецкого, `fr_FR` для французского, `es_ES` для испанского и т.д.)
 
 ### ❓ Решение проблем
 
